@@ -49,6 +49,12 @@ key steps of the process are
 
 ![Rest endpoint consumption](https://github.com/abhijit-kalita/nd00333_AZMLND_C2/blob/master/starter_files/images/consume-endpoint.png)
 
+* Pipeline execution
+
+![Pipeline execution](https://github.com/abhijit-kalita/nd00333_AZMLND_C2/blob/master/starter_files/images/pipeline-jupyternb1.png)
+
+
+
 
 ## Screen Recording
 [Screencast Link of Project](https://youtu.be/9Y6MumokV9Y)
