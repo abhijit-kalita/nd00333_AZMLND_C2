@@ -60,7 +60,9 @@ key steps of the process are
 ## Screen Recording
 [Screencast Link of Project](https://youtu.be/9Y6MumokV9Y)
 
-## Standout Suggestions
+## Standout Suggestions/Improvements
 Some improvements which can be attemped are
+Get a better model by changing/optimizing the automl run
 Automate a scheduled test of the rest end point to check if the performance degrades and launch a retraining based on that
+
 
