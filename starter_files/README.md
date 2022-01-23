@@ -51,7 +51,7 @@ key steps of the process are
 
 
 ## Screen Recording
-*TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
+[Screencast Link of Project](https://link-url-here.org)
 
 ## Standout Suggestions
 Some improvements which can be attemped are
