@@ -19,9 +19,11 @@ Second is that of getting the model and puuting it behind a rest end point for c
 ## Key Steps
 key steps of the process are 
 * Ingestion of a dataset
+![Dataset](https://github.com/abhijit-kalita/nd00333_AZMLND_C2/blob/master/starter_files/images/Bankmktng_Dataset.png)
 * Execution of a ML process with the help of Azure AutoML
-* Make sure that the pipeline is executed to completion
-* Obtain the best performing model based on the AutoMl process
+![Automl completed](https://github.com/abhijit-kalita/nd00333_AZMLND_C2/blob/master/starter_files/images/Automl_completed_exp.png)
+* Get the best model of automl process
+![Best Automl model](https://github.com/abhijit-kalita/nd00333_AZMLND_C2/blob/master/starter_files/images/Automl_Best_exp.png)
 * Deploy the model as a rest end point
 * Enable swagger for the end point
 * Enable logging and application insights
