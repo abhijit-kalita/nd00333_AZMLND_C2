@@ -54,6 +54,7 @@ key steps of the process are
 ![Pipeline execution](https://github.com/abhijit-kalita/nd00333_AZMLND_C2/blob/master/starter_files/images/pipeline-jupyternb1.png)
 
 
+![Pipeline execution2](https://github.com/abhijit-kalita/nd00333_AZMLND_C2/blob/master/starter_files/images/pipeline1.png)
 
 
 ## Screen Recording
