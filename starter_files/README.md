@@ -6,7 +6,13 @@
 *TODO:* Write an overview to your project.
 
 ## Architectural Diagram
-*TODO*: Provide an architectual diagram of the project and give an introduction of each step. An architectural diagram is an image that helps visualize the flow of operations from start to finish. In this case, it has to be related to the completed project, with its various stages that are critical to the overall flow. For example, one stage for managing models could be "using Automated ML to determine the best model". 
+The diagram below explains the architecture of the project.
+The process can be divided into two main parts as in a typical ML lifecycle. 
+First is That of getting the data and training a model.
+Second is that of getting the model and puuting it behind a rest end point for consumption. This is done using the azure container infrastructure
+
+![Architecture diagram](https://github.com/abhijit-kalita/nd00333_AZMLND_C2/blob/master/starter_files/images/Project_Architecture.png)
+
 
 ## Key Steps
 *TODO*: Write a short discription of the key steps. Remeber to include all the screenshots required to demonstrate key steps. 
