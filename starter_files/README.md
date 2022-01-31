@@ -23,7 +23,7 @@ Second is that of getting the model and puuting it behind a rest end point for c
 
 :two:   **AUTOML** In the subsequent step, using the dataset created in provious step an automl process is run with the Y/N colums regarding whether a subscription happened as the classification prediction target
 
-![Automl completed](https://github.com/abhijit-kalita/nd00333_AZMLND_C2/blob/master/starter_files/images/Automl_completed_exp.png)4
+![Automl completed](https://github.com/abhijit-kalita/nd00333_AZMLND_C2/blob/master/starter_files/images/Automl_completed_exp.png)
 
 :three:   **Best model deployment:** Following an automl run the best model which is obtained as a result of the automl process is chosen for deployment. The deployment is to be  made as a rest end point with teh help of an azure container instance
 
