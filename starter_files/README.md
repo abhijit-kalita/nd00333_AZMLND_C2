@@ -10,7 +10,7 @@ The process can be divided into two main parts as in a typical ML lifecycle.
 First is That of getting the data and training a model.
 Second is that of getting the model and puuting it behind a rest end point for consumption. This is done using the azure container infrastructure
 
-![Architecture diagram](https://github.com/abhijit-kalita/nd00333_AZMLND_C2/blob/master/starter_files/images/Project_Architecture.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![Architecture diagram](https://github.com/abhijit-kalita/nd00333_AZMLND_C2/blob/master/starter_files/images/Project_Architecture.png)
 
 
 ## Key Steps
@@ -21,7 +21,8 @@ Second is that of getting the model and puuting it behind a rest end point for c
 :one:   **Dataset creation:** A dataset is ingested which is a bank markerketing dataset provided for the project. The dataset shares details about the population targetted for a subscription offer and the retlated details. The dataset is created in the azure ml workspace for use
 
 
-![Dataset](https://github.com/abhijit-kalita/nd00333_AZMLND_C2/blob/master/starter_files/images/Bankmktng_Dataset.png)
+![Dataset](https://github.com/abhijit-kalita/nd00333_AZMLND_C2/blob/master/starter_files/images/Bankmktng_Dataset.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 
 :two:   **AUTOML** In the subsequent step, using the dataset created in provious step an automl process is run with the Y/N colums regarding whether a subscription happened as the classification prediction target
 
