@@ -48,20 +48,33 @@ Using this setup the swagger specific to the rest endpoint can be viewed in swag
 ![Swagger1](https://github.com/abhijit-kalita/nd00333_AZMLND_C2/blob/master/starter_files/images/swagger-json-serving.png)
 
 
-* Consumption of deployed endpoint: 
+* **Consumption of deployed endpoint:** The deployed end point can be tested with endpoint.py python script which passes the expented contents of the model 
+rest enpoint as a json payload and then gets back the classified end point as a yes/no response .
 
-![Rest endpoint](https://github.com/abhijit-kalita/nd00333_AZMLND_C2/blob/master/starter_files/images/pipeline-restendpoint.png)
+![Rest endpoint execution 1](https://github.com/abhijit-kalita/nd00333_AZMLND_C2/blob/master/starter_files/images/end-point-execution-json.png)
 
-* Test the consumption of the end point
+![Rest endpoint execution 2](https://github.com/abhijit-kalita/nd00333_AZMLND_C2/blob/master/starter_files/images/endpoint-execution.png)
 
-![Rest endpoint consumption](https://github.com/abhijit-kalita/nd00333_AZMLND_C2/blob/master/starter_files/images/consume-endpoint.png)
+* **Load testing:** The rest end point can be tested using apache benchmark utility. 10 requests are sent to the end point and response checked for parious parammeters 
+like best respinse time, failures etc
 
-* Pipeline execution
+![benchmark test](https://github.com/abhijit-kalita/nd00333_AZMLND_C2/blob/master/starter_files/images/Benchmark-test-api.png)
 
-![Pipeline execution](https://github.com/abhijit-kalita/nd00333_AZMLND_C2/blob/master/starter_files/images/pipeline-jupyternb1.png)
+* **ML Pipeline creation:** As part of the sutomation process a reuable ml pipeline can be created with the various steps. The revelant code can be writeen and executed
+as a jupyter notebook at the end of which you will have an ML pipeline created in azure ml.
+
+![Pipeline creation](https://github.com/abhijit-kalita/nd00333_AZMLND_C2/blob/master/starter_files/images/pipeline-notebook-run2.png)
+
+![Pipeline creation2](https://github.com/abhijit-kalita/nd00333_AZMLND_C2/blob/master/starter_files/images/pipelin120.png)
 
 
-![Pipeline execution2](https://github.com/abhijit-kalita/nd00333_AZMLND_C2/blob/master/starter_files/images/pipeline1.png)
+* **ML Pipeline publishing:** The created pipeline is then published for consumption
+
+![Pipeline publication 1](https://github.com/abhijit-kalita/nd00333_AZMLND_C2/blob/master/starter_files/images/pipeline7.png)
+
+![Pipeline publication 2](https://github.com/abhijit-kalita/nd00333_AZMLND_C2/blob/master/starter_files/images/pipeline8.png)
+
+![Pipeline rest end point](https://github.com/abhijit-kalita/nd00333_AZMLND_C2/blob/master/starter_files/images/pipeline11.png)
 
 
 ## Screen Recording
