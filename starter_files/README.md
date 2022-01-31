@@ -72,9 +72,19 @@ as a jupyter notebook at the end of which you will have an ML pipeline created i
 
 ![Pipeline publication 1](https://github.com/abhijit-kalita/nd00333_AZMLND_C2/blob/master/starter_files/images/pipeline7.png)
 
+
+
 ![Pipeline publication 2](https://github.com/abhijit-kalita/nd00333_AZMLND_C2/blob/master/starter_files/images/pipeline8.png)
 
+
+
 ![Pipeline rest end point](https://github.com/abhijit-kalita/nd00333_AZMLND_C2/blob/master/starter_files/images/pipeline11.png)
+
+
+* **Published pipeline active status:** The published pipeline in active status can be seen below
+
+![Pipeline rest end point](https://github.com/abhijit-kalita/nd00333_AZMLND_C2/blob/master/starter_files/images/published-pipeline-overview.png)
+
 
 
 ## Screen Recording
