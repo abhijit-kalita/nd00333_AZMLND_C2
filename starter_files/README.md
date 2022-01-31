@@ -10,7 +10,7 @@ The process can be divided into two main parts as in a typical ML lifecycle.
 First is That of getting the data and training a model.
 Second is that of getting the model and puuting it behind a rest end point for consumption. This is done using the azure container infrastructure
 
-![Architecture diagram](https://github.com/abhijit-kalita/nd00333_AZMLND_C2/blob/master/starter_files/images/Project_Architecture.png)&nbsp;&nbsp;&nbsp;&nbsp;
+![Architecture diagram](https://github.com/abhijit-kalita/nd00333_AZMLND_C2/blob/master/starter_files/images/Project_Architecture.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 ## Key Steps
