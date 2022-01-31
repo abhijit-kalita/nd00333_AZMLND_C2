@@ -21,7 +21,7 @@ Second is that of getting the model and puuting it behind a rest end point for c
 :one:   **Dataset creation:** A dataset is ingested which is a bank markerketing dataset provided for the project. The dataset shares details about the population targetted for a subscription offer and the retlated details. The dataset is created in the azure ml workspace for use
 
 
-![Dataset](https://github.com/abhijit-kalita/nd00333_AZMLND_C2/blob/master/starter_files/images/Bankmktng_Dataset.png "Dataset")[H]
+![Dataset](https://github.com/abhijit-kalita/nd00333_AZMLND_C2/blob/master/starter_files/images/Bankmktng_Dataset.png){: height="75px" width="300px" style="float:left; padding-right:10px" }
 
 
 :two:   **AUTOML** In the subsequent step, using the dataset created in provious step an automl process is run with the Y/N colums regarding whether a subscription happened as the classification prediction target
